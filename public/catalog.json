@@ -1,0 +1,146 @@
+{
+  "items": [
+    {
+      "id": "CP-TS-BLK",
+      "n": "CURSOR Shirt (Black Ver.)",
+      "c": "Apparel",
+      "p": 275,
+      "d": "Black cotton tee with a vertical CURSOR wordmark on the back and a small CpE mark on the chest.",
+      "img": "black",
+      "art": "",
+      "imgData": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-TS-WHT",
+      "n": "CURSOR Shirt (White Ver.)",
+      "c": "Apparel",
+      "p": 275,
+      "d": "White tee with the repeating CURSOR wave print. Easy to wear to labs and org days.",
+      "img": "white",
+      "art": "",
+      "imgData": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-TS-BLU",
+      "n": "CURSOR Shirt (Blue Ver.)",
+      "c": "Apparel",
+      "p": 275,
+      "d": "Navy tee with a 'Continue Pursuing Excellence' back print and a small CURSOR chest logo.",
+      "img": "blue",
+      "art": "",
+      "imgData": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-STK-01",
+      "n": "CpE Sticker Set",
+      "c": "Accessories",
+      "p": 50,
+      "d": "Pixel-art Spartan, dino, loading bars and CpE one-liners. Sized for laptop lids and tumblers.",
+      "img": "stickers",
+      "art": "",
+      "imgData": "",
+      "sizes": [],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-KEY-01",
+      "n": "CpE Keychain",
+      "c": "Accessories",
+      "p": 100,
+      "d": "Keycap-style acrylic charm with the CpE logo and a swivel clasp. Fits bags and lanyards.",
+      "img": "keychain",
+      "art": "",
+      "imgData": "",
+      "sizes": [],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-WRS-01",
+      "n": "CURSOR Wristlet",
+      "c": "Accessories",
+      "p": 150,
+      "d": "Lanyard wristlet for keys and ID in light or dark versions. Also redeemable for 300 event points.",
+      "img": "wristlet",
+      "art": "",
+      "imgData": "",
+      "sizes": [],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-TOT-01",
+      "n": "Tote Bag",
+      "c": "Bags & Desk",
+      "p": 200,
+      "d": "Canvas tote sized for a 15-inch laptop, drafting tubes and a pile of module printouts.",
+      "img": "",
+      "art": "tote",
+      "imgData": "",
+      "sizes": [],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-MPD-01",
+      "n": "Mousepad",
+      "c": "Bags & Desk",
+      "p": 150,
+      "d": "Stitched-edge desk mat with a blueprint grid print. Smooth surface for coding and gaming.",
+      "img": "",
+      "art": "pad",
+      "imgData": "",
+      "sizes": [],
+      "stock": null,
+      "on": true
+    },
+    {
+      "id": "CP-JKT-01",
+      "n": "Jacket / Windbreaker",
+      "c": "Apparel",
+      "p": 650,
+      "d": "Light water-resistant windbreaker with embroidered CURSOR logo for early labs and late commutes.",
+      "img": "",
+      "art": "jkt",
+      "imgData": "",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": null,
+      "on": true
+    }
+  ],
+  "settings": {}
+}
